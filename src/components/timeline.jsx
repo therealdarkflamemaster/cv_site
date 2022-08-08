@@ -21,8 +21,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Developer JavaScript of Application Web - SAP<span>Feb. 2022 – Present</span></h2>
+                        <p>Application Development (JavaScript, Kafka, Java, PowerShell)</p>
+                        <p>Unit Tests and UI Tests (Cypress, Sinon JS, QUnit)</p>
+                        <p>Team Work CI/CD (Git, Jenkins, VM, Gradle)</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +34,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Developer Web Front End - AEQUO<span>Jul.2021 – Sep.2021</span></h2>
+                        <p>Development of a site and SSO System (JavaScript, TypeScript, React, Keycloak, GitLab )</p>
+                        <p>Respect of development rules RGAA WCAG (W3C)</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +46,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Developer of the product offer - mobySTOCK<span>Jul.2020 – Jan.2021</span></h2>
+                        <p>Development of a site as a management system (React, Redux, React Router, Ant Design, APIs, Axios)</p>
+                        <p>Development of a One-Page type site (PHP, Symfony-React, MySQL, Ubuntu, GIT)</p>
+                        <p>Uploading of projects via the company server Ubuntu, Linux</p>
                       </div>
                     </div>
                   </article>
