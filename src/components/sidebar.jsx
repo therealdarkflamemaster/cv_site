@@ -15,11 +15,12 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
-                  <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
+                  <li className="active" style={{marginTop: '10px'}}><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
+                  <li><a href="#working" data-nav-section="working">working</a></li>
+                  <li><a href="#education" data-nav-section="education">education</a></li>
                   <li><a href="#" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>
-                  <li><a href="#timeline" data-nav-section="timeline">working</a></li>
+
                 </ul>
               </div>
             </nav>
